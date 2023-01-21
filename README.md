@@ -1,6 +1,6 @@
 <h1 align="center"> Habits</h1>
 
-<p aling="center">
+<p align="center">
 NLW é um evento exclusivo egratuito, promovido pela Rocketseat
 para ensino de tecnologia WEB. </br>
 </p>
@@ -45,4 +45,4 @@ Esse projeto está sob a linceça MIT.
 
 ---
 
-Fieto com by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.com.gg.rocketseat/)
+Fieto com ❤ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.com.gg.rocketseat/)
