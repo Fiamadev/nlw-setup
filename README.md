@@ -47,4 +47,4 @@ Esse projeto está sob a linceça MIT.
 
 ---
 
-Fieto com ❤ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.com.gg.rocketseat/)
+Feito com ❤ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.com.gg.rocketseat/)
